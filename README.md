@@ -27,16 +27,21 @@ In meeting the minimum viable product (MVP) specifications listed below, you sho
 Demonstrate your understanding of this week's concepts by answering the following free-form questions.
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
+What is an event?
 
-1. What is the DOM?
+something modifying your html/css
 
-2. What is an event?
+What is an event listener?
 
-3. What is an event listener?
+something trigering your event through click, mouseenter, ect.
 
-4. Why would we convert a NodeList into an Array?
+Why would we convert a NodeList into an Array?
 
-5. What is a component?
+so you could use .map or .filter or something like that
+
+What is a component?
+
+a component is a framework created in javascpript used to add content to html in the form of "cards"
 
 ### Git Set up
 
