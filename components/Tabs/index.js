@@ -12,11 +12,12 @@
 const entryPointInHTML = document.querySelector('.topics');
 
 const tab = (array1) => {
-    const tab = document.createElement('div');
+    const tab1 = document.createElement('div');
     
     tab.classList.add ('tab');
 
-    tab.textContent = array1.topics;
+    tab.textContent = array1;
+    return tab1;
 
 };
 
